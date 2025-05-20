@@ -40,6 +40,7 @@ public class App {
 
     private static void printMenu() {
         System.out.println();
+        System.out.println();
         System.out.println("1. Add new product");
         System.out.println("2. Update product stock");
         System.out.println("3. Remove product");
@@ -48,6 +49,7 @@ public class App {
         System.out.println("6. View products");
         System.out.println("7. End-of-day report");
         System.out.println("8. Exit");
+        System.out.println();
         System.out.print("Select (1-8): ");
     }
 
