@@ -145,6 +145,7 @@ public class App {
 
     private static void viewProducts() {
         while (true) {
+        	System.out.println();
             System.out.println("-- View Products --");
             System.out.println("1.Price ↑  2.Price ↓  3.Name ↑  4.Name ↓  5.Search Name  6.Search Category  7.Back");
             System.out.print("Select: ");
